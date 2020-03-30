@@ -1,2 +1,2 @@
 # COVID-Data
- 
+This data is provided to the public strictly for educational and academic research purposes. The data is derived from publicly available data from multiple sources, that do not always agree. Clearsense, LLC hereby disclaims any and all representations and warranties, express and implied, with respect to the Website and the data, including, but not limited to, that the data is complete, accurate, fit for any particular use, or merchantable.  The Website and all data is provided and made available “AS IS WITH ALL FAULTS”. The data shall not be relied on for medical advice or guidance and the use of the data for any such purpose, and for any commercial purpose, is strictly prohibited. 
